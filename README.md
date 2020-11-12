@@ -1,3 +1,6 @@
+[![Go Report Card](https://goreportcard.com/badge/github.com/PopinjayJohn/DungeonBook)](https://goreportcard.com/report/github.com/PopinjayJohn/DungeonBook)
+![GitHub go.mod Go version](https://img.shields.io/github/go-mod/go-version/PopinjayJohn/DungeonBook)
+![GitHub last commit](https://img.shields.io/github/last-commit/PopinjayJohn/DungeonBook)
 # DungeonBook
 D&amp;D, The social network way.
 
